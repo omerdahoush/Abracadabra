@@ -1,5 +1,7 @@
 {
-  "name": "Abracadabra: AI Product Photos",
-  "description": "An AI-powered application that transforms standard product images into professional-quality photos by removing backgrounds, adjusting lighting, and adding custom text.",
-  "requestFramePermissions": []
+  "name": "Copy of Artistic Photo Style Converter",
+  "description": "Upload or capture a photo, choose an artistic style like cartoon, sketch, or anime, and let AI transform your image. Save and share your masterpiece.",
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
